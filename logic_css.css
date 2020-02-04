@@ -1,0 +1,71 @@
+p {
+	color: red;
+	font-style: normal;
+	font-family: "Times New Roman", Times, serif;
+	#font-family: "cursive", Snell Roundhand, cursive;
+	font-size: 20px;
+	font-weight: 700;
+	text-indent:5% ;
+	hyphens: auto;
+	position: static;
+}
+
+h1 {
+	text-align: center;
+	letter-spacing: 7px;
+	text-shadow: black 1px 0 10px;
+	#position: fixed ;
+	#top: 10px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+/* Center the avatar image inside this container */
+.imgcontainer {
+  text-align: center;
+  margin: 24px 0 12px 0;
+}
+
+/* Add padding to containers */
+.container {
+  text-align: center;
+  padding: 10px;
+}
+
+/* Set a style for  button */
+button {
+  background-color: blue;
+  color: white;
+  padding: 5px 15px;
+  margin: 8px 0;
+  border: 1px solid red;
+  border-radius: 5px;
+  width; 50%;
+  cursor: pointer;
+  box-shadow: 3px 3px 8px 0 #000; 
+}
+
+/* Set a style for  button1 */
+button1 {
+  background-color: blue;
+  color: white;
+  padding: 5px 15px;
+  margin: 8px 0;
+  border: 1px solid red;
+  border-radius: 5px;
+  display: inline-block;
+  cursor: pointer;
+  box-shadow: 3px 3px 8px 0 #000; /* h-offset v-offset blur spread color */
+  margin-left: 70px;
+
+}
+
+body {
+	#background-image: url(" ");
+	background-color: silver;
+}
